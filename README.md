@@ -13,7 +13,7 @@ I hope you are doing well! <br>   ⁍ I am Ved Vekhande<br>   ⁍ Sophomore at I
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ved-01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ved-01&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ved-01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ved-01&icon=9&color=8)](https://visitcount.itsvg.in)
